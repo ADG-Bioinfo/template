@@ -1,0 +1,53 @@
+---
+title: ""
+format: 
+  html:
+    toc: true
+    code-fold: true
+    code-summary: "Show the code"
+editor: visual
+jupyter: ir
+engine: knitr
+fig-width: 8
+fig-height: 6
+echo: false
+warning: false
+---
+
+```{r}
+#| label: res_load_lib
+#| include: false
+#| warning: false
+
+# Load libraries and define variables: 
+#
+# QMD_Path
+# Project_Path
+# Data_Path
+#
+source("../common_functions.R")
+
+```
+
+```{r}
+#| label: res_load_data
+#| warning: false
+
+```
+
+## Section Title
+
+```{r}
+#| label: res_sec
+#| warning: false
+
+```
+
+
+
+
+
+
+
+
+
